@@ -210,3 +210,18 @@
 [2020-34-27 15:34:48]    위치: CarManager_Modified.Form1.dataGridView_parkingManager_CurrentCellChanged(Object sender, EventArgs e) 파일 D:\2020C#\c#\CarManager_MsSQL\CarManager_Modified\Form1.cs:줄 327
 [2020-35-27 15:35:36] 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
 [2020-35-27 15:35:36]    위치: CarManager_Modified.Form1.dataGridView_parkingManager_CurrentCellChanged(Object sender, EventArgs e) 파일 D:\2020C#\c#\CarManager_MsSQL\CarManager_Modified\Form1.cs:줄 327
+[2020-09-27 16:09:18] 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+[2020-09-27 16:09:18]    위치: CarManager_Modified.Form1.dataGridView_parkingManager_CurrentCellChanged(Object sender, EventArgs e) 파일 D:\2020C#\c#\CarManager_MsSQL\CarManager_Modified\Form1.cs:줄 327
+[2020-09-27 16:09:25] 주차공간 2에 9293을/를 주차하였습니다.
+[2020-09-27 16:09:25] 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+[2020-09-27 16:09:25]    위치: CarManager_Modified.Form1.dataGridView_parkingManager_CurrentCellChanged(Object sender, EventArgs e) 파일 D:\2020C#\c#\CarManager_MsSQL\CarManager_Modified\Form1.cs:줄 327
+[2020-09-27 16:09:32] 주차공간 4에 9292을/를 주차하였습니다.
+[2020-09-27 16:09:32] 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+[2020-09-27 16:09:32]    위치: CarManager_Modified.Form1.dataGridView_parkingManager_CurrentCellChanged(Object sender, EventArgs e) 파일 D:\2020C#\c#\CarManager_MsSQL\CarManager_Modified\Form1.cs:줄 327
+[2020-11-27 16:11:14] 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+[2020-11-27 16:11:14]    위치: CarManager_Modified.Form1.dataGridView_parkingManager_CurrentCellChanged(Object sender, EventArgs e) 파일 D:\2020C#\c#\CarManager_MsSQL\CarManager_Modified\Form1.cs:줄 327
+[2020-11-27 16:11:20] 주차공간 3에 9292을/를 주차하였습니다.
+[2020-11-27 16:11:20] 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+[2020-11-27 16:11:20]    위치: CarManager_Modified.Form1.dataGridView_parkingManager_CurrentCellChanged(Object sender, EventArgs e) 파일 D:\2020C#\c#\CarManager_MsSQL\CarManager_Modified\Form1.cs:줄 327
+[2020-11-27 16:11:36] 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+[2020-11-27 16:11:36]    위치: CarManager_Modified.Form1.dataGridView_parkingManager_CurrentCellChanged(Object sender, EventArgs e) 파일 D:\2020C#\c#\CarManager_MsSQL\CarManager_Modified\Form1.cs:줄 327

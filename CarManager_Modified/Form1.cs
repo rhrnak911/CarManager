@@ -86,14 +86,14 @@ selectQuery();
 
             }
 
-            for (int i = 0; i <= dataGridView_parkingManager.Columns.Count - 1; i++)
-            {
-                int colw = dataGridView_parkingManager.Columns[i].Width+50;
-                //remove autosizing
-                dataGridView_parkingManager.Columns[i].AutoSizeMode = DataGridViewAutoSizeColumnMode.None;
-                //set width to calculated by autosize
-                dataGridView_parkingManager.Columns[i].Width = colw;
-            }
+            //for (int i = 0; i <= dataGridView_parkingManager.Columns.Count - 1; i++)
+            //{
+            //    int colw = dataGridView_parkingManager.Columns[i].Width;
+            //    //remove autosizing
+            //    dataGridView_parkingManager.Columns[i].AutoSizeMode = DataGridViewAutoSizeColumnMode.None;
+            //    //set width to calculated by autosize
+            //    dataGridView_parkingManager.Columns[i].Width = colw;
+            //}
         }
 
         private void insertQuery(int parkingSpot)
@@ -394,6 +394,7 @@ selectQuery();
         private void button1_Click(object sender, EventArgs e)
         {
             this.label11.Text = "bbbb";
+            Console.WriteLine("asdasd");
         }
     }
 }
